@@ -12,7 +12,7 @@
     width: 3px;
     height: 100%;
     background: #78909c;
-    /*opacity: .07;*/
+    opacity: .07;
 }
 
 .comment-container:before {
@@ -24,7 +24,7 @@
     height: 3px;
     background: #78909c;
     left: -40px;
-    /*opacity: .07;*/
+    opacity: .07;
 }
 
 .comment-container:last-child:after {
